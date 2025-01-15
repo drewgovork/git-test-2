@@ -5,8 +5,7 @@
 3. git commit -m "coment" - запись
 4. git log / git log --oneline - показывает информацию о коммитах
 5. git push [rep_link] [branch-name]
-
-git push origin master
+   git push origin master <===
 
 ///////////////////////////////////////
 
