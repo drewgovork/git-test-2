@@ -33,3 +33,4 @@
 /// Cлияние веток
 
 1.  в GitHub нажимаем Pull request ===> New pull request ===> Выбираем ветлки ===>
+2.  git pull [rep_link] [branch-name] ([origin] [master]) - загружает ветку с GitHub на локальный сервер
