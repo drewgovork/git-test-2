@@ -29,8 +29,11 @@
 1. git branch - проверка веток
 2. git branch [name] - создание новой ветки
 3. git checkout [name] - переключение на новую ветку
+4. git branch -d [name] - удаление ветки
 
-/// Cлияние веток
+/// Cлияние веток через GitHub
 
 1.  в GitHub нажимаем Pull request ===> New pull request ===> Выбираем ветлки ===>
 2.  git pull [rep_link] [branch-name] ([origin] [master]) - загружает ветку с GitHub на локальный сервер
+
+/// Слияние веток через VSCode
