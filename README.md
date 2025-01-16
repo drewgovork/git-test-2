@@ -29,3 +29,7 @@
 1. git branch - проверка веток
 2. git branch [name] - создание новой ветки
 3. git checkout [name] - переключение на новую ветку
+
+/// Cлияние веток
+
+1.  в GitHub нажимаем Pull request ===> New pull request ===> Выбираем ветлки ===>
