@@ -1,4 +1,4 @@
-#test
+#test pew pew pew
 
 1. git clone [url] - клонирование репозитория на пк
 2. git remote -v - проверка, привязан ли репозиторий
