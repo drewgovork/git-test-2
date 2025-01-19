@@ -2,7 +2,7 @@
 
 1. git clone [url] - клонирование репозитория на пк
 2. git remote -v - проверка, привязан ли репозиторий
-3. git remote add [url] - привязка папки к репозиторию
+3. git remote add origin [url] - привязка папки к репозиторию
 
 4. git config --global user.email "you@example.com"
 5. git config --global user.name "Your Name"
